@@ -1,5 +1,5 @@
 # IP-Based Pinball Streaming-Platform
-![External Image](https://photos.app.goo.gl/4YwHuHTrUZTPtYF68)
+![Completed Rig](assembled_rig.jpg)
 
 ## A budget-friendly portable pinball streaming platform designed to provide professional-quality multi-camera tournament coverage using commodity networking hardware and Android smartphones.
 
