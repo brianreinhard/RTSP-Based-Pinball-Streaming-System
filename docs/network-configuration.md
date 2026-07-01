@@ -19,13 +19,13 @@ Responsibilities:
 
 Suggested static IP assignments
 
-192.168.50.2 WiFi bridge
-192.168.50.1 Router  
-192.168.50.3 AP  
-192.168.50.10 OBS  
-192.168.50.11 Camera 1  
-192.168.50.12 Camera 2  
-192.168.50.13 Camera 3. 
+192.168.50.2 - WiFi bridge 
+192.168.50.1 - Router  
+192.168.50.3 - AP  
+192.168.50.10 - OBS  
+192.168.50.11 - Camera 1  
+192.168.50.12 - Camera 2  
+192.168.50.13 - Camera 3  
 
 
 ## EAP225
