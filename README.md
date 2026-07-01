@@ -10,14 +10,14 @@ By combining readily-available consumer networking equipment, Android smartphone
 and open-source software, I was able to create a reliable, high quality
 multi-camera production platform for a fraction of the cost.
 
+The total costs for my system was under **$800**. This does not include the cost of a pc/laptop as I already owned a Macbook Pro. Costs will vary based on parts/materials that you choose for your own setup.  
 
 ## Design Requirements
 
 The system must:
 
 - Support 3 simultaneous cameras
-- Operate without venue Ethernet
-- Use existing venue WiFi when available
+- Utilize venue ethernet/wifi for WAN connection (internet)
 - Deploy in under 15 minutes
 - Remain portable
 - Operate from battery power
