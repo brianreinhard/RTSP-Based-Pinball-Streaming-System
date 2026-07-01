@@ -10,7 +10,7 @@ By combining readily-available consumer networking equipment, Android smartphone
 and open-source software, I was able to create a reliable, high quality
 multi-camera production platform for a fraction of the cost.
 
-The total costs for my system was under **$800**. This does not include the cost of a pc/laptop as I already owned a Macbook Pro. Costs will vary based on parts/materials that you choose for your own setup. **eBay is your friend!!!**  
+The total cost for my system was under **$800**. This does not include the cost of a pc/laptop as I already owned a Macbook Pro. Costs will vary based on parts/materials that you choose for your own setup. **eBay is your friend!!!**  
 
 ## Design Requirements
 
